@@ -1,2 +1,2 @@
 # templateLove
-replacing by a template from an array
+Replacing by a template from an array
